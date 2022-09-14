@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yameen Vinchu</h1>
-<h3 align="center">Python Developer | Data science | Cybersecurity Enthusiast</h3>
+<h3 align="center">Python Developer | Deep Learning | Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yameenv&label=Profile%20views&color=0e75b6&style=flat" alt="yameenv" /> </p>
 
 - 🔭 I’m currently working on [OrcMyAdharrV2](https://github.com/YameenV/OCR-my-Aadhaar)
 
-- 🌱 I’m currently learning **Networking, Deeplearning, cyber security**
+- 🌱 I’m currently learning **Computer Vision, Deep Learning**
 
 - 👯 I’m looking to collaborate on [graphicswithpython](https://github.com/YameenV/graphicswithpython)
 
