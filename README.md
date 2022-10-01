@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yameenv&label=Profile%20views&color=0e75b6&style=flat" alt="yameenv" /> </p>
 
-- 🔭 I’m currently working on [OrcMyAdharrV2](https://github.com/YameenV/OCR-my-Aadhaar)
+- 🔭 I’m currently working on [MAPE-AutomatingAdmissionProcess](https://github.com/YameenV/MAPE-AutomatingAdmissionProcess)
 
 - 🌱 I’m currently learning **Computer Vision, Deep Learning**
 
 - 👯 I’m looking to collaborate on [graphicswithpython](https://github.com/YameenV/graphicswithpython)
 
-- 👨‍💻 All of my projects are available at [https://github.com/YameenV](https://github.com/YameenV)
+- 👨‍💻 All of my projects are available at [https://github.com/YameenV](https://github.com/YameenV?tab=repositories)
 
 - 📝 I write articles on [https://www.geeksforgeeks.org/how-to-use-flask-session-in-python-flask/](https://www.geeksforgeeks.org/how-to-use-flask-session-in-python-flask/)
 
